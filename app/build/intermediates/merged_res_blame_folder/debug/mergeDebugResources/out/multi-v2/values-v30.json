@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.janaushadhi.finder.app-mergeDebugResources-83:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/Users/taheeratanveer/.gradle/caches/9.0.0/transforms/93989a44e98b8f1b3bf70c1e70ff73ad/transformed/material3-release/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
