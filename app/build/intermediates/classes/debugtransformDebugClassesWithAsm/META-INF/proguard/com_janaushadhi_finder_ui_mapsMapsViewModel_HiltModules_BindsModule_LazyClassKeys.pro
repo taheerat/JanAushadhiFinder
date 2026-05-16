@@ -1,1 +1,0 @@
--keep,allowobfuscation,allowshrinking class com.janaushadhi.finder.ui.maps.MapsViewModel
